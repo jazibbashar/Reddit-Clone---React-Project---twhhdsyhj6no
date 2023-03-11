@@ -68,7 +68,8 @@ const App = ({detail}) => {
                }
 
               setPost(true)}}> Add new post</button>
-          <img className='image'src='src\redditlogo.png'/>
+           <img className='image'src=
+          'https://logodownload.org/wp-content/uploads/2018/02/reddit-logo.png'/>
            
             
 
