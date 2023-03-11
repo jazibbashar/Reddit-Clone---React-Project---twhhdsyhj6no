@@ -2,7 +2,7 @@ import React from 'react'
 import { useState , useEffect} from 'react';
 import '../styles/App.css';
 import { PostDetail } from './PostDetail';
-import LoginForm from './Signup';
+import LoginForm from './SignUp';
 
 
 
