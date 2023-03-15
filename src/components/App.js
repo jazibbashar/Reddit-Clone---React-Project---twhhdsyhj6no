@@ -1,20 +1,6 @@
 import React from 'react'
 import { useState , useEffect} from 'react';
 import '../styles/App.css';
-const App = () => {
-
-
-  return (
-    <div id="main">
-    </div>
-  )
-}
-
-
-export default App;
-import React from 'react'
-import { useState , useEffect} from 'react';
-import '../styles/App.css';
 import { PostDetail } from './PostDetail';
 import LoginForm from './SignUp';
 
@@ -124,3 +110,5 @@ const App = ({detail}) => {
 
 
 export default App;
+
+// https://glistening-tiramisu-a8ed1b.netlify.app
