@@ -24,7 +24,12 @@ export default function LoginForm({onClick}) {
     <div className='form-div'>
     <div className='myForm' >
     
-    <img clasName= 'logo' src='src/redditlogo.png' style={{height:30,marginLeft:82}}/>
+    
+
+  <img src=
+            'https://logodownload.org/wp-content/uploads/2018/02/reddit-logo.png'
+            style={{height:30,marginLeft:82}}/> 
+
     <form onSubmit={handlesubmit}>
     
         <div>

@@ -2,7 +2,7 @@ import React from 'react'
 import { useState , useEffect} from 'react';
 import '../styles/App.css';
 import { PostDetail } from './PostDetail';
-import LoginForm from './Signup';
+import LoginForm from './SignUp';
 
 
 
@@ -68,7 +68,8 @@ const App = ({detail}) => {
                }
 
               setPost(true)}}> Add new post</button>
-          <img className='image'src='src\redditlogo.png'/>
+           <img className='image'src=
+          'https://logodownload.org/wp-content/uploads/2018/02/reddit-logo.png'/>
            
             
 

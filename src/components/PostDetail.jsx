@@ -36,7 +36,8 @@ export function PostDetail({onClick}) {
     return (
         <div className='form-div'>
             <div className='myForm form1'>
-            <img src='src\redditlogo.png' style={{height:30,marginLeft:140}}/>
+              <img src=
+            'https://logodownload.org/wp-content/uploads/2018/02/reddit-logo.png'style={{height:30,marginLeft:140}}/>
             
             
                 <h1 className="post-text">Add new post</h1>
