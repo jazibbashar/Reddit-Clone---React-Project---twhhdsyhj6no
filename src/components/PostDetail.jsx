@@ -15,7 +15,10 @@ export function PostDetail({onClick}) {
         if (detail.title === "") {
             return alert("Empty detail!");
         }
+<<<<<<< HEAD
         
+=======
+>>>>>>> 9485b8d7250675fee4cf9ed8843d17aa61618b72
         else if (detail.description === "") {
             return alert("Empty detail!");
         }
@@ -33,6 +36,10 @@ export function PostDetail({onClick}) {
        
     };
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9485b8d7250675fee4cf9ed8843d17aa61618b72
     return (
         <div className='form-div'>
             <div className='myForm form1'>
@@ -54,9 +61,15 @@ export function PostDetail({onClick}) {
                         setDetail({ ...detail, [e.target.name]: e.target.value });
                     }}></textarea><br></br>
 
+<<<<<<< HEAD
                     <button type='submit' className='sbtn' onClick={postData}>Post</button>
                      <button type='button' className='sbtn' onClick={onClick}>Close</button>
                     <button type='button' className='cut' onClick={onClick}>✖</button>
+=======
+                    <button type='submit' className='sbtn' onClick={postData}>Save</button>
+                     <button type='button' className='sbtn' onClick={onClick}>Close</button>
+                    <button type='button' className='cut' onClick={onClick}>✖️</button>
+>>>>>>> 9485b8d7250675fee4cf9ed8843d17aa61618b72
                     
                </form>
             </div>
