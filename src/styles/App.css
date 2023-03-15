@@ -14,12 +14,6 @@
     flex-direction: row-reverse;
     
 }
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> 9485b8d7250675fee4cf9ed8843d17aa61618b72
 .btn{
     background-color: blue; 
     border: none;
@@ -90,7 +84,6 @@ box-shadow: 0px 0px 14px 0px rgb(12, 102, 102) ;
     background: #828588c7;
     background-image: url('https://images.hdqwalls.com/download/reddit-cartoon-4k-io-1920x1080.jpg');
     background-size: cover;
-<<<<<<< HEAD
     
     
 }
@@ -101,10 +94,6 @@ box-shadow: 0px 0px 14px 0px rgb(12, 102, 102) ;
     cursor: pointer;
     font-weight: 600;
 
-=======
-    /* border-radius: 0.5rem */
-    
->>>>>>> 9485b8d7250675fee4cf9ed8843d17aa61618b72
 }
 .image{
     height: 30px;
@@ -132,13 +121,7 @@ box-shadow: 0px 0px 14px 0px rgb(12, 102, 102) ;
     padding: 0.8rem;
     border: none;
     border-radius: 0.2rem;
-<<<<<<< HEAD
    
-=======
-    /* box-shadow: 0px 0px 0px 1px; */
-    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset; */
-
->>>>>>> 9485b8d7250675fee4cf9ed8843d17aa61618b72
 }
 .downbtn:hover{
     background-color: #e3480beb
@@ -247,16 +230,12 @@ cursor: pointer;
     left: 35%;
     top: 17%;
 }
-<<<<<<< HEAD
 .center {
     flex-grow: 1;
     text-align: center;
     font-weight: bold;
   }
   
-=======
-
->>>>>>> 9485b8d7250675fee4cf9ed8843d17aa61618b72
 @media (max-width: 700px){
     .myForm{
         left: 26%;
@@ -291,8 +270,4 @@ cursor: pointer;
     .myForm{
         left: 8%;
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 9485b8d7250675fee4cf9ed8843d17aa61618b72
